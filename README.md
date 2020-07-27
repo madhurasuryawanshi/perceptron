@@ -1,3 +1,3 @@
 # perceptron
 
-Digit recognition using single perceptron. Jupyter Notebook.
+Alphabet recognition using single perceptron. Jupyter Notebook.
